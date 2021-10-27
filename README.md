@@ -1,0 +1,3 @@
+# simple-chat-app
+
+SIMPLE CHAT APP WITH WPF AND SOCKETS
